@@ -1,1 +1,9 @@
-console.log ()
+function displayPosition() {
+
+}
+console.log();
+
+function displaySkill() {
+
+}
+console.log();
