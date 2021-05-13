@@ -8,7 +8,7 @@ console.log("* coding");
 console.log("* television");
 console.log("* hiking");
 console.log("* music");
-console.log("\n")
+console.log("\n");
 console.log("Previous experience:");
 displayPosition("Brick Crew", "Cheap labor", "Toted heavy things");
 displayPosition("Steel Mill", "Not so cheap labor", "Burned myself for money");
