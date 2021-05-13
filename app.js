@@ -2,18 +2,18 @@
 console.log("Adam Vaughn".toUpperCase());
 console.log("Career: Quarter Stack Developer");
 console.log("Description: A man in over his head");
-console.log("\n");
+console.log("");
 console.log("Interests");
 console.log("* coding");
 console.log("* television");
 console.log("* hiking");
 console.log("* music");
-console.log("\n");
+console.log("");
 console.log("Previous experience:");
 displayPosition("Brick Crew", "Cheap labor", "Toted heavy things");
 displayPosition("Steel Mill", "Not so cheap labor", "Burned myself for money");
 displayPosition("Cable Company", "Cheap labor", "Signal-slinger");
-console.log("\n")
+console.log("")
 console.log("My skills:");
 displaySkill("*coding*", true);
 displaySkill("hang-gliding", true);
